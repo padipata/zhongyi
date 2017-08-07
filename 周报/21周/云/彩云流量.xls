@@ -1,0 +1,11 @@
+
+
+
+<html>
+	<head>
+		<title>Excel</title>
+	</head>
+	<body>
+		<table border="1"  cellspacing="0" cellpadding="0" align="left"><tr><td ><b>TIME</b></td><td ><b>DATA(GB)</b><td ><b>RATIO</b></td></td></tr><tr><td>2017-05-14</td><td>41.537</td><td>6.991%</td></tr><tr><td>2017-05-15</td><td>41.525</td><td>6.989%</td></tr><tr><td>2017-05-16</td><td>45.562</td><td>7.668%</td></tr><tr><td>2017-05-17</td><td>52.184</td><td>8.782%</td></tr><tr><td>2017-05-18</td><td>87.512</td><td>14.728%</td></tr><tr><td>2017-05-19</td><td>37.3</td><td>6.278%</td></tr><tr><td>2017-05-20</td><td>37.548</td><td>6.319%</td></tr><tr><td>2017-05-21</td><td>35.593</td><td>5.99%</td></tr><tr><td>2017-05-22</td><td>31.728</td><td>5.34%</td></tr><tr><td>2017-05-23</td><td>37.597</td><td>6.328%</td></tr><tr><td>2017-05-24</td><td>34.162</td><td>5.749%</td></tr><tr><td>2017-05-25</td><td>39.336</td><td>6.62%</td></tr><tr><td>2017-05-26</td><td>39.424</td><td>6.635%</td></tr><tr><td>2017-05-27</td><td>33.174</td><td>5.583%</td></tr></table>
+	</body>
+</html>
